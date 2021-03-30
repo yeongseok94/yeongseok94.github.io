@@ -1,6 +1,3 @@
----
-sort: 11
----
 
 # Primer Utilities Test
 
