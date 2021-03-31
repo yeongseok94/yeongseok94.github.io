@@ -2,7 +2,7 @@
 
 **Auto**nomous **E**lectric **V**ehicle Team of [MSC Lab](http://msc.kaist.ac.kr) 
 
-Just another documentation theme compatible with GitHub Pages
+!!! This page is under construction !!!
 
 ## What it does?
 
