@@ -1,6 +1,6 @@
 # MSC AutoEV
 
-**Auto**nomous **E**lectric **V**ehicle Team of [MSC Lab](msc.kaist.ac.kr) 
+**Auto**nomous **E**lectric **V**ehicle Team of [MSC Lab](https://msc.kaist.ac.kr) 
 
 Just another documentation theme compatible with GitHub Pages
 
